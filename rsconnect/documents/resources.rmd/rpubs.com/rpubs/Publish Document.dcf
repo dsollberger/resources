@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/563911/83d4609f082042398e228baba8465958
+bundleId: https://api.rpubs.com/api/v1/document/563911/83d4609f082042398e228baba8465958
+url: http://rpubs.com/dsollberger/563911
+when: 1597195159.39088
