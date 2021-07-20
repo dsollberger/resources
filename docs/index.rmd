@@ -1,0 +1,327 @@
+---
+title: "Resources"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+
+
+
+Data
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Databases
+
+* Baldwin Library of Historical [Children's Literature](https://ufdc.ufl.edu/baldwin/all/thumbs) at the University of Florida
+* US [Census](https://www.census.gov/en.html) with [tutorials](https://www.census.gov/data/academy/courses.html)!
+* [emancipated slaves](http://www.discoverfreedmen.org/)
+* [HealthData.gov](https://healthdata.gov/)
+* [movie posters](https://theposterdb.com/)
+* [network data](https://github.com/schochastics/networkdata)
+* [Standard eBooks](https://standardebooks.org/) free e-books from the public domain
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Data Products
+
+* [EdBuild](https://edbuild.org/) --- "organization that worked to bring common sense and fairness to the way states fund public schools"
+* [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Data Sets
+
+* [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
+* [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
+* [Gun Violence Archive](https://www.gunviolencearchive.org/)
+* [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
+* [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
+* [Twitter posts](https://transparency.twitter.com/en/information-operations.html) that are allegedly from state-backed information operations
+
+Graphics
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Image Collections
+
+* [The Flippist](http://www.theflippist.com/)
+* art of [Paris museums](http://parismuseescollections.paris.fr/fr/recherche/image-libre)
+* [Roadside America](https://www.flickr.com/photos/library_of_congress/albums/72157686396348231/page1) --- public domain images of points of interest from the rural parts of the United States
+
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Tools
+
+* [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
+* [Remove Background](https://www.remove.bg/)
+
+ML
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Bayesian Approaches
+
+* [Bayes Camp](http://bayescamp.com/courses)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Keras
+
+* [Keras with R](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Resources
+
+* [free textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
+
+
+Python
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Utilities
+
+* [How to Convert any Python File to .EXE](https://www.youtube.com/watch?v=UZX5kH72Yx4)(YouTube) --- includes how to install pip
+
+R
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Textbooks
+
+* [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/guides.html) --- by Hadley Wickham
+* [R Cookbook](https://rc2e.com/) by James "JD" Long and Paul Teetor
+* [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
+
+### Teaching Materials
+
+* [Introduction to R for Geography and Environmental Science](https://github.com/kristineccles/Introduction_to_R) by Dr. Kristin Eccles
+* [STAT 158](https://csu-r.github.io/Module1/) at Colorado State University (by Alex Fout)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Tidyverse
+
+* [encrypt RMD files](https://github.com/dirkschumacher/encryptedRmd) by Dirk Schumacher
+* [style guide](https://style.tidyverse.org/)
+* [YAML fieldguide](https://ymlthis.r-lib.org/articles/yaml-fieldguide.html)
+
+### Tidy Tuesday
+
+* [official repository](https://github.com/rfordatascience/tidytuesday)
+* [submissions](https://github.com/jkaupp/tidytuesdays) by Jake Kaupp
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Tables
+
+* [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables) by Little Miss Data
+* [Tips and tricks for working with images and figures in R Markdown documents](https://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures) by Hollie Olmstead
+
+
+Sports
+================================================================================
+
+Column {.tabset}
+--------------------------------------------------------------------------------
+
+### Baseball
+
+* [Attendance in 2019](https://public.tableau.com/views/MajorLeagueBaseballTeamAttendancein2019/MLBAttendance2019?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no)
+* [Like every other industry, the MLB is abandoning Appalachia](https://www.reddit.com/r/baseball/comments/em01kz/essay_like_every_other_industry_the_mlb_is/) --- essay by u/sha256
+
+Video Games
+================================================================================
+
+Column {.tabset}
+--------------------------------------------------------------------------------
+
+### Starcraft
+
+a recommended order to read the novels
+
+1. *Heaven's Devils* and *Devils Due*, both good books that tell the story of Raynor and Tychus
+2. *Uprising*, a short story telling how Kerrigan joined the Sons of Korhal
+3. *Liberty's Crusade*, a retelling of the SC1 terran campaign (it's not a great book but a popular one)
+4. *Speed of Darkness*, a retelling of the Battle of Mar Sara from the perspective of a group of marines
+5. *StarCraft: Ghosts: Nova*, the beginning of Nova's story, takes place during the SC1 terran campaign
+6. *Queen of Blades*, a retelling of the SC1 zerg campaign (much better book)
+7. *Shadow of the Xel'Naga*, takes place between SC1 and BW (Seriously though THIS BOOK IS AWFUL AVOID IF POSSIBLE)
+8. *I, Mengsk*, a retelling of the life of Arcturus Mengsk, but takes place right before BW as he recounts his life to Valerian
+9. The Dark Templar Trilogy: Three books that take place after BW, personally my favorite starting point and builds up to SC2
+10. *StarCraft Ghosts: Spectres*: The story of the canceled StarCraft Ghosts game, takes place before SC2
+11. *Flashpoint*, takes place between Wings of Liberty and Heart of the Swarm
+---u/Subsourian
+
+### Stardew Valley
+
+* [official site](https://www.stardewvalley.net/)
+* [wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
+* [mods](https://www.nexusmods.com/stardewvalley/)
+
+### Super Metroid
+
+* [DASH Randomizer](https://dashrando.github.io/)
+* [total's Randomizer](https://itemrando.supermetroid.run/)
+* [list of 7 randomizers](https://wiki.supermetroid.run/Randomizers)
+
+### Thronebreaker
+
+* [main thread of choices](https://www.reddit.com/r/gwent/comments/9ryree/thronebreaker_and_choices_anyone_interested_in/)
+
+Corpse puzzle solution
+
+* 3rd corpse from right on your melee row
+* 3rd corpse from right on enemy ranged row > hero order
+* 3rd corpse from right on ranged row
+* 4th corpse from right on ranged row to clear the row.
+* 4th corpse from right on melee row > hero order
+* 4th corpse from right on melee row to clear the row
+* Anything in middle of enemy melee row to clear as many bodies as possible on melee row. (Sometimes you can full clear this, rng doesn't require it, you should be able to clear enough to guarantee hero order victory regardless next turn)
+* 4th corpse from the right on enemy ranged row to clear the row.
+
+Fableson puzzle solution
+
+1. Play Gascon on melee row and attack one of the guards.
+2. Play Reynard on any row and flip a Banquet Table on the melee row (very important).
+3. Play Gascon on the ranged row and push the melee assassin to the ranged row.
+4. Play Reynard on any row and flip a Banquet Table on the ranged row.
+5. Play Gascon on the melee row and attack the injured guard.
+6. (Repeat steps 4-5 until one guard is dead.)
+7. Play Reynard on any row and flip any Banquet Table.
+8. Play Meve for a finishing blow on the healthy guard.
+
+### West of Loathing
+
+* [DLC guide](https://www.reddit.com/r/westofloathingguide/comments/as9gmx/wol_guide_to_everything_reckonin_at_gun_manor_dlc/) Reddit post
+* [wiki](https://westofloathing.gamepedia.com/West_of_Loathing_Wiki) at Gamepedia
+* [Dirtwater Shopkeepers](https://www.reddit.com/r/westofloathingguide/comments/as8p5a/west_of_loathing_guide_to_everything_dirtwater/) Reddit post
+
+Dirtwater Shopkeepers preferred order:
+
+1. Boots (Tony, Fort of Darkness)
+2. Curiousity and Bean (Murray, Lost Dutch Oven Mine)
+3. Leather Goods (Danny, Danny's Tannery)
+4. Bookstore (Alexandria, Alexandria Ranch)
+5. Brewery (Ol' Schmaltz Brewery)
+6. Hot Dog (Doug, Cavern Canyon)
+
+### other games
+
+* [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
+
+Covid-19
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Dashboards
+
+* [Rt](https://rt.live/) --- virus reproduction rate by state
+* Covid [Tracking Project](https://covidtracking.com/)
+* [USA Map](https://covid19usmap.com/)
+
+### Miscellaneous
+
+* Covid-19 [Conversations](https://covid19conversations.org/webinars) --- webinar series
+* [Scientist Volunteer form](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
+
+
+Cartography
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Map Makers
+
+* [Map Chart](https://mapchart.net/) --- down to state level
+* [Mob Rule](http://mob-rule.com/home) --- down to county level
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Spatial Analysis
+
+* [GeoSpatial Health Data](https://www.paulamoraga.com/book-geospatial/) --- by Paula Moraga
+* [r-spatial](https://www.r-spatial.org/) blog by Edzer Pebesma
+
+
+misc
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Blogs
+
+* [Airborne Toxic Event](https://theairbornetoxicevent.com/) --- my favorite music group
+* [Amy Gill](http://amygill.net/) --- biomedical scientist
+* [Catriona Shearer's Geometry Puzzles](https://drive.google.com/file/d/1hVP8tLURVDphmHsphz5BQLVzHCeTts29/view)
+
+### Environment
+
+* [Kono Designs](http://konodesigns.com/urban-farm/) --- farms inside corporate buildings
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Pedagogy
+
+* [Inform 7](http://inform7.com/) --- teaches programming through story telling?
+* [TIEE](https://www.esa.org/tiee/index.html) --- Teaching Issues and Experiments in Ecology
+* [Teaching Tech Together](https://teachtogether.tech/) by Greg Wilson --- in particular, check out the tips at the beginning
+
+### Research Resources
+
+* [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) --- free textbook
+* [Email extractor](https://email-checker.net/extract)
+* Flowchart makers:  [Draw.io](https://www.draw.io/) and [LucidChart](https://www.lucidchart.com/pages/)
+* [GitHub emojis](https://gist.github.com/rxaviers/7360908)
+* [Papers with Code](https://www.paperswithcode.com/)
+* [Poster printing and templates](https://phdposters.com/)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Volunteering
+
+* [Citizen Science](https://www.citizenscience.gov/)
+
+
+### miscellaneous
+
+* [Alternating harmonic series](https://cindyjs.org/gallery/main/AlternatingSeries/) --- app that shows that rearrangement can sum up to any number
+* [Bernoulli numbers](https://www.bernoulli.org/)---yes, a webpage domain that was registered just for the Bernoulli numbers
+* [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
+* Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
+* [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
+* [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
+* [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry

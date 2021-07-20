@@ -10,43 +10,6 @@ output:
 library(flexdashboard)
 ```
 
-Covid-19
-================================================================================
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Dashboards
-
-* [Rt](https://rt.live/) --- virus reproduction rate by state
-* Covid [Tracking Project](https://covidtracking.com/)
-* [USA Map](https://covid19usmap.com/)
-
-### Miscellaneous
-
-* Covid-19 [Conversations](https://covid19conversations.org/webinars) --- webinar series
-* [Scientist Volunteer form](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
-
-
-Cartography
-================================================================================
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Map Makers
-
-* [Map Chart](https://mapchart.net/) --- down to state level
-* [Mob Rule](http://mob-rule.com/home) --- down to county level
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Spatial Analysis
-
-* [GeoSpatial Health Data](https://www.paulamoraga.com/book-geospatial/) --- by Paula Moraga
-* [r-spatial](https://www.r-spatial.org/) blog by Edzer Pebesma
-
 
 Data
 ================================================================================
@@ -60,6 +23,7 @@ Column {data-width=200}
 * US [Census](https://www.census.gov/en.html) with [tutorials](https://www.census.gov/data/academy/courses.html)!
 * [emancipated slaves](http://www.discoverfreedmen.org/)
 * [HealthData.gov](https://healthdata.gov/)
+* [IPEDS](https://nces.ed.gov/ipeds) --- data about universities
 * [movie posters](https://theposterdb.com/)
 * [network data](https://github.com/schochastics/networkdata)
 * [Standard eBooks](https://standardebooks.org/) free e-books from the public domain
@@ -78,6 +42,7 @@ Column {data-width=200}
 ### Data Sets
 
 * [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
+* [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
 * [Gun Violence Archive](https://www.gunviolencearchive.org/)
 * [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
 * [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
@@ -101,8 +66,10 @@ Column {data-width=200}
 
 ### Tools
 
+* [Datawrapper](https://www.datawrapper.de/) --- online tool for data visualization
 * [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
 * [Remove Background](https://www.remove.bg/)
+* [SankeyMATIC](https://sankeymatic.com/) --- make Sankey diagrams
 
 ML
 ================================================================================
@@ -127,6 +94,17 @@ Column {data-width=200}
 ### Resources
 
 * [free textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
+
+
+Pedagogy
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Activities
+
+* [Data Nuggets](http://datanuggets.org/)
 
 
 Python
@@ -177,6 +155,10 @@ Column {data-width=200}
 
 * [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables) by Little Miss Data
 * [Tips and tricks for working with images and figures in R Markdown documents](https://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures) by Hollie Olmstead
+
+### misc
+
+* [R Seek](https://rseek.org/) --- search tool for R documentation
 
 
 Sports
@@ -270,6 +252,54 @@ Dirtwater Shopkeepers preferred order:
 
 * [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
 
+
+Bioinformatics
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Covid-19 Dashboards
+
+* [Rt](https://rt.live/) --- virus reproduction rate by state
+* Covid [Tracking Project](https://covidtracking.com/)
+* [USA Map](https://covid19usmap.com/)
+
+### Miscellaneous
+
+* [Black Women in Computational Biology](https://www.blackwomencompbio.org/)
+* Covid-19 [Conversations](https://covid19conversations.org/webinars) --- webinar series
+* [Scientist Volunteer form](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
+
+
+Cartography
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Spatial Data
+
+* [Open Street Map](https://www.openstreetmap.org/#map=5/38.007/-95.844)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Map Makers
+
+* [CAD Mapper](https://cadmapper.com/)
+* [Map Chart](https://mapchart.net/) --- down to state level
+* [Mob Rule](http://mob-rule.com/home) --- down to county level
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Spatial Analysis
+
+* [GeoSpatial Health Data](https://www.paulamoraga.com/book-geospatial/) --- by Paula Moraga
+* [r-spatial](https://www.r-spatial.org/) blog by Edzer Pebesma
+
+
 misc
 ================================================================================
 
@@ -285,6 +315,15 @@ Column {data-width=200}
 ### Environment
 
 * [Kono Designs](http://konodesigns.com/urban-farm/) --- farms inside corporate buildings
+
+### Reddit Favorites
+
+* [document all possessions](https://np.reddit.com/r/personalfinance/comments/43iyip/our_family_of_5_lost_everything_in_a_fire/cziljy3/)
+
+<!---
+This should not appear
+--->
+
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -320,4 +359,6 @@ Column {data-width=200}
 * Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
 * [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
 * [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
+* [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
+* [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
 * [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry
