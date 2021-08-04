@@ -27,6 +27,7 @@ Column {data-width=200}
 * [movie posters](https://theposterdb.com/)
 * [network data](https://github.com/schochastics/networkdata)
 * [Standard eBooks](https://standardebooks.org/) free e-books from the public domain
+* [Stanford GeoSpatial Center](https://github.com/StanfordGeospatialCenter/awesome-public-datasets) --- wide selection of databases
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -42,9 +43,11 @@ Column {data-width=200}
 ### Data Sets
 
 * [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
+* [Critical Role rolls](https://www.critrolestats.com/)
 * [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
 * [Gun Violence Archive](https://www.gunviolencearchive.org/)
 * [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
+* [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 * [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
 * [Twitter posts](https://transparency.twitter.com/en/information-operations.html) that are allegedly from state-backed information operations
 
@@ -67,9 +70,11 @@ Column {data-width=200}
 ### Tools
 
 * [Datawrapper](https://www.datawrapper.de/) --- online tool for data visualization
+* [DrMemes](https://www.drmemes.com/) --- meme generator
 * [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
 * [Remove Background](https://www.remove.bg/)
 * [SankeyMATIC](https://sankeymatic.com/) --- make Sankey diagrams
+* [WordArt](https://wordart.com/) --- generate word clouds
 
 ML
 ================================================================================
@@ -105,6 +110,13 @@ Column {data-width=200}
 ### Activities
 
 * [Data Nuggets](http://datanuggets.org/)
+
+### Repositories
+
+* []
+* [Inform 7](http://inform7.com/) --- teaches programming through story telling?
+* [TIEE](https://www.esa.org/tiee/index.html) --- Teaching Issues and Experiments in Ecology
+* [Teaching Tech Together](https://teachtogether.tech/) by Greg Wilson --- in particular, check out the tips at the beginning
 
 
 Python
@@ -251,6 +263,7 @@ Dirtwater Shopkeepers preferred order:
 ### other games
 
 * [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
+* [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
 
 
 Bioinformatics
@@ -265,10 +278,22 @@ Column {data-width=200}
 * Covid [Tracking Project](https://covidtracking.com/)
 * [USA Map](https://covid19usmap.com/)
 
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Learning
+
+* [Bioinformatics Algorithms: An Active Learning Approach](https://www.bioinformaticsalgorithms.org/read-the-book)
+* [John Hopkins Genomics](https://www.coursera.org/specializations/genomic-data-science) --- specialization through Coursera
+* [Rosalind](http://rosalind.info/problems/locations/)--- learning bioinformatics through problem solving
+* [TeSS: Elixer](https://tess.elixir-europe.org/)
+* [UCSD Bioinformatics](https://www.coursera.org/specializations/bioinformatics) --- specialization through Coursera
+
 ### Miscellaneous
 
 * [Black Women in Computational Biology](https://www.blackwomencompbio.org/)
 * Covid-19 [Conversations](https://covid19conversations.org/webinars) --- webinar series
+* Covid-19 [overview video](https://old.reddit.com/r/educationalgifs/comments/gm064n/an_eli5_breakdown_of_the_covid19_genetic_code/)
 * [Scientist Volunteer form](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
 
 
@@ -318,21 +343,26 @@ Column {data-width=200}
 
 ### Reddit Favorites
 
+* [Android animation speed](https://old.reddit.com/r/LifeProTips/comments/d4yqa1/lpt_if_you_have_an_android_phone_go_to_the/)
 * [document all possessions](https://np.reddit.com/r/personalfinance/comments/43iyip/our_family_of_5_lost_everything_in_a_fire/cziljy3/)
 
+
 <!---
-This should not appear
+# hidden links
+
+* [Forgotten Employee](https://sites.google.com/site/forgottenemployee/) --- posted by Mr. Moonshine (circa 2002)
+* [I also choose this guy's dead wife](https://www.reddit.com/r/AskReddit/comments/5c79n0/comment/d9uf56l?context=1)
+* [Reddit Rewind 2018](https://old.reddit.com/r/AskReddit/comments/a4spfa/if_reddit_made_a_reddit_rewind_2018_what_would_be/)
+
 --->
 
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
-### Pedagogy
+### Bioinformatics
 
-* [Inform 7](http://inform7.com/) --- teaches programming through story telling?
-* [TIEE](https://www.esa.org/tiee/index.html) --- Teaching Issues and Experiments in Ecology
-* [Teaching Tech Together](https://teachtogether.tech/) by Greg Wilson --- in particular, check out the tips at the beginning
+* [genomic data](https://gdc.cancer.gov/node/31) --- from the National Cancer Institute
 
 ### Research Resources
 
@@ -343,22 +373,27 @@ Column {data-width=200}
 * [Papers with Code](https://www.paperswithcode.com/)
 * [Poster printing and templates](https://phdposters.com/)
 
-Column {data-width=200}
---------------------------------------------------------------------------------
-
 ### Volunteering
 
 * [Citizen Science](https://www.citizenscience.gov/)
 
+Column {data-width=200}
+--------------------------------------------------------------------------------
 
 ### miscellaneous
 
 * [Alternating harmonic series](https://cindyjs.org/gallery/main/AlternatingSeries/) --- app that shows that rearrangement can sum up to any number
+* [Badger Badger Badger](https://archive.org/details/flash_badger) --- from 2003
 * [Bernoulli numbers](https://www.bernoulli.org/)---yes, a webpage domain that was registered just for the Bernoulli numbers
+* [Bookshop](https://bookshop.org/) --- support local book stores
+* [bouncing DVD logo](https://www.bouncingdvdlogo.com/) --- popular among fans of The Office
 * [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
+* [Fourier Transformations](https://www.jezzamon.com/fourier/index.html) --- interactive introduction
 * Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
 * [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
 * [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
 * [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
 * [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
 * [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry
+* [statistics notes](https://significantstatistics.com/index.php/Graduate_Level:_Intro_to_Probability_and_Statistics) --- at the graduate level
+* [Wishbook](http://www.wishbookweb.com/the-catalogs/) --- department store catalogs from 1937 to 1996
