@@ -67,11 +67,18 @@ Column {data-width=200}
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
+### Reverse Image Search
+
+* [Google](https://www.google.com/imghp)
+* [TinEye](https://tineye.com/)
+* [Yandex](https://yandex.com/)
+
 ### Tools
 
 * [Datawrapper](https://www.datawrapper.de/) --- online tool for data visualization
 * [DrMemes](https://www.drmemes.com/) --- meme generator
 * [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
+* animated [GIF search tool](https://marcosmarp.github.io/GIFinder/) --- by u/marcos_marp
 * [Remove Background](https://www.remove.bg/)
 * [SankeyMATIC](https://sankeymatic.com/) --- make Sankey diagrams
 * [WordArt](https://wordart.com/) --- generate word clouds
@@ -98,7 +105,8 @@ Column {data-width=200}
 
 ### Resources
 
-* [free textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) --- the best machine learning textbook
+* free [textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
 
 
 Pedagogy
@@ -137,12 +145,15 @@ Column {data-width=200}
 
 ### Textbooks
 
+* [100 free textbooks](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) --- as of December 2020
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/guides.html) --- by Hadley Wickham
 * [R Cookbook](https://rc2e.com/) by James "JD" Long and Paul Teetor
 * [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
 
 ### Teaching Materials
 
+* [Data Lab](https://dlab.berkeley.edu/) --- at UC Berkeley ([GitHub](https://github.com/dlab-berkeley))
+* [Data Science for Biological Sciences](https://ds4biomed.tech/index.html) --- bookdown by Daniel Chen (at Virginia Tech)
 * [Introduction to R for Geography and Environmental Science](https://github.com/kristineccles/Introduction_to_R) by Dr. Kristin Eccles
 * [STAT 158](https://csu-r.github.io/Module1/) at Colorado State University (by Alex Fout)
 
@@ -170,6 +181,7 @@ Column {data-width=200}
 
 ### misc
 
+* [color palettes](https://github.com/EmilHvitfeldt/r-color-palettes/blob/master/type-sorted-palettes.md) --- overview by Emil Hvitfeldt
 * [R Seek](https://rseek.org/) --- search tool for R documentation
 
 
@@ -234,6 +246,13 @@ Corpse puzzle solution
 * Anything in middle of enemy melee row to clear as many bodies as possible on melee row. (Sometimes you can full clear this, rng doesn't require it, you should be able to clear enough to guarantee hero order victory regardless next turn)
 * 4th corpse from the right on enemy ranged row to clear the row.
 
+Cow Tosser puzzle [solution](https://witcher.fandom.com/wiki/Corrupt_Weapons)
+
+*  Place two Wagenburg on your ranged row.
+*  Place a Slinger on the ranged row an hit three Cow Carcass on the same row.
+*  Place another Slinger on the ranged row and hit the remaining Cow Carcasses on your battlefield.
+*  Use the two Wagenburg order abilities on the opponent's melee and ranged rows.
+
 Fableson puzzle solution
 
 1. Play Gascon on melee row and attack one of the guards.
@@ -263,6 +282,7 @@ Dirtwater Shopkeepers preferred order:
 ### other games
 
 * [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
+* [fighting game glossary](https://glossary.infil.net/) --- by Infil
 * [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
 
 
@@ -323,6 +343,7 @@ Column {data-width=200}
 
 * [GeoSpatial Health Data](https://www.paulamoraga.com/book-geospatial/) --- by Paula Moraga
 * [r-spatial](https://www.r-spatial.org/) blog by Edzer Pebesma
+* [spatial genomics](https://spatialgenomics.com/)
 
 
 misc
