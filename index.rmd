@@ -42,6 +42,7 @@ Column {data-width=200}
 
 ### Data Sets
 
+* Anthony [Bourdain travel locations](https://github.com/underthecurve/bourdain-travel-places) --- by Christine Zheng
 * [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
 * [Critical Role rolls](https://www.critrolestats.com/)
 * [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
@@ -49,6 +50,7 @@ Column {data-width=200}
 * [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
 * [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 * [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
+* [Sunstroke Epidemic of Cincinnati](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272406/) --- of 1881
 * [Twitter posts](https://transparency.twitter.com/en/information-operations.html) that are allegedly from state-backed information operations
 
 Graphics
@@ -106,6 +108,7 @@ Column {data-width=200}
 ### Resources
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) --- the best machine learning textbook
+* [Physical-Based Deep Learning](http://physicsbaseddeeplearning.org/intro.html)
 * free [textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
 
 
@@ -294,6 +297,8 @@ Column {data-width=200}
 
 ### Covid-19 Dashboards
 
+* Covid-19 [Conversations](https://covid19conversations.org/webinars) --- webinar series
+* Covid-19 [overview video](https://old.reddit.com/r/educationalgifs/comments/gm064n/an_eli5_breakdown_of_the_covid19_genetic_code/)
 * [Rt](https://rt.live/) --- virus reproduction rate by state
 * Covid [Tracking Project](https://covidtracking.com/)
 * [USA Map](https://covid19usmap.com/)
@@ -312,9 +317,7 @@ Column {data-width=200}
 ### Miscellaneous
 
 * [Black Women in Computational Biology](https://www.blackwomencompbio.org/)
-* Covid-19 [Conversations](https://covid19conversations.org/webinars) --- webinar series
-* Covid-19 [overview video](https://old.reddit.com/r/educationalgifs/comments/gm064n/an_eli5_breakdown_of_the_covid19_genetic_code/)
-* [Scientist Volunteer form](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
+* [Seeq](https://seeq.bio/app/) --- genome search tool
 
 
 Cartography
