@@ -36,6 +36,7 @@ Column {data-width=200}
 
 * [EdBuild](https://edbuild.org/) --- "organization that worked to bring common sense and fairness to the way states fund public schools"
 * [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
+* [Open Secrets](https://www.opensecrets.org/) --- contributions to US politicians
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -83,6 +84,7 @@ Column {data-width=200}
 * animated [GIF search tool](https://marcosmarp.github.io/GIFinder/) --- by u/marcos_marp
 * [Remove Background](https://www.remove.bg/)
 * [SankeyMATIC](https://sankeymatic.com/) --- make Sankey diagrams
+* [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) --- GAN-generated fake images of faces
 * [WordArt](https://wordart.com/) --- generate word clouds
 
 ML
@@ -124,10 +126,22 @@ Column {data-width=200}
 
 ### Repositories
 
-* []
 * [Inform 7](http://inform7.com/) --- teaches programming through story telling?
 * [TIEE](https://www.esa.org/tiee/index.html) --- Teaching Issues and Experiments in Ecology
 * [Teaching Tech Together](https://teachtogether.tech/) by Greg Wilson --- in particular, check out the tips at the beginning
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Research
+
+* [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) --- free textbook
+* [Email extractor](https://email-checker.net/extract)
+* Flowchart makers:  [Draw.io](https://www.draw.io/) and [LucidChart](https://www.lucidchart.com/pages/)
+* [GitHub emojis](https://gist.github.com/rxaviers/7360908)
+* [MaxQDA](https://www.maxqda.com/) --- mixed methods data analysis tool
+* [Papers with Code](https://www.paperswithcode.com/)
+* [Poster printing and templates](https://phdposters.com/)
 
 
 Python
@@ -387,15 +401,6 @@ Column {data-width=200}
 ### Bioinformatics
 
 * [genomic data](https://gdc.cancer.gov/node/31) --- from the National Cancer Institute
-
-### Research Resources
-
-* [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) --- free textbook
-* [Email extractor](https://email-checker.net/extract)
-* Flowchart makers:  [Draw.io](https://www.draw.io/) and [LucidChart](https://www.lucidchart.com/pages/)
-* [GitHub emojis](https://gist.github.com/rxaviers/7360908)
-* [Papers with Code](https://www.paperswithcode.com/)
-* [Poster printing and templates](https://phdposters.com/)
 
 ### Volunteering
 
