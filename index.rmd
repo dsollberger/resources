@@ -417,6 +417,7 @@ Column {data-width=200}
 * [Bookshop](https://bookshop.org/) --- support local book stores
 * [bouncing DVD logo](https://www.bouncingdvdlogo.com/) --- popular among fans of The Office
 * [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
+* Digital [Covid-19 Vaccine Record](https://myvaccinerecord.cdph.ca.gov/)
 * [Fourier Transformations](https://www.jezzamon.com/fourier/index.html) --- interactive introduction
 * Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
 * [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
