@@ -19,12 +19,14 @@ Column {data-width=200}
 
 ### Databases
 
+* [AnyAPI](https://any-api.com/) --- over 1000 public APIs
 * Baldwin Library of Historical [Children's Literature](https://ufdc.ufl.edu/baldwin/all/thumbs) at the University of Florida
 * US [Census](https://www.census.gov/en.html) with [tutorials](https://www.census.gov/data/academy/courses.html)!
 * [emancipated slaves](http://www.discoverfreedmen.org/)
 * [HealthData.gov](https://healthdata.gov/)
 * [IPEDS](https://nces.ed.gov/ipeds) --- data about universities
 * [movie posters](https://theposterdb.com/)
+* [Our World in Data](https://github.com/piersyork/owidR) --- R package to access owid data sets
 * [network data](https://github.com/schochastics/networkdata)
 * [Standard eBooks](https://standardebooks.org/) free e-books from the public domain
 * [Stanford GeoSpatial Center](https://github.com/StanfordGeospatialCenter/awesome-public-datasets) --- wide selection of databases
@@ -35,6 +37,7 @@ Column {data-width=200}
 ### Data Products
 
 * [EdBuild](https://edbuild.org/) --- "organization that worked to bring common sense and fairness to the way states fund public schools"
+* [Know Your Data](https://knowyourdata.withgoogle.com/) --- Google's sample of data sets for Tensor Flow (in beta stage)
 * [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
 * [Open Secrets](https://www.opensecrets.org/) --- contributions to US politicians
 
@@ -49,10 +52,67 @@ Column {data-width=200}
 * [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
 * [Gun Violence Archive](https://www.gunviolencearchive.org/)
 * [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
+* [military capabilities](https://www.militarycapabilities.com/home) --- cPASS (Center for Peace and Security)
 * [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 * [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
 * [Sunstroke Epidemic of Cincinnati](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272406/) --- of 1881
 * [Twitter posts](https://transparency.twitter.com/en/information-operations.html) that are allegedly from state-backed information operations
+
+
+Data Science
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Teaching Materials
+
+* Data Science for [Biological Sciences](https://ds4biomed.tech/index.html) --- bookdown by Daniel Chen (at Virginia Tech)
+* [Data Lab](https://dlab.berkeley.edu/) --- at UC Berkeley ([GitHub](https://github.com/dlab-berkeley))
+* Introduction to R for [Geography and Environmental Science](https://github.com/kristineccles/Introduction_to_R) by Dr. Kristin Eccles
+* [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm) --- by NIST
+* [history](https://mobile.twitter.com/yohaniddawela/status/1446032040206422019) of R --- by Yohan Iddawela
+* [introverse](https://spielmanlab.github.io/introverse/) --- Stephanie Spielman's tutorials for the `tidyverse`
+* Introduction to [Modern Statistics](https://openintro-ims.netlify.app/) --- by Mine Cetinkaya-Rundel and Jo Hardin
+* [Probability](https://probability4datascience.com/)  for Data Science--- by Stanley H Chan
+* Learning [Statistics](https://learningstatisticswithr.com/) with R --- by Danielle Navarro
+* [STAT 158](https://csu-r.github.io/Module1/) at Colorado State University (by Alex Fout)
+* Data [Visualization](https://datavizs21.classes.andrewheiss.com/) course --- by Andrew Heiss
+
+### Tech Textbooks
+
+* [100 free textbooks](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) --- as of December 2020
+* Data Science at the [Command Line](https://www.datascienceatthecommandline.com/) --- by Jeroen Janssens
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/) --- by Rob J Hyndman and George Athanasopoulos
+* [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/guides.html) --- by Hadley Wickham
+* Happy Git and [GitHub](https://happygitwithr.com/) for the useR --- by Jenny Bryan and Jim Hester
+* [R Cookbook](https://rc2e.com/) by James "JD" Long and Paul Teetor
+* [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
+* Building Web Applications with [Shiny](https://rstudio-education.github.io/shiny-course/) --- by RStudio Education
+
+### Tidyverse
+
+* [encrypt RMD files](https://github.com/dirkschumacher/encryptedRmd) by Dirk Schumacher
+* [style guide](https://style.tidyverse.org/)
+* [tidy evaluation](https://ijlyttle.shinyapps.io/tidyeval/) --- `learnr` app by Ian Lyttle
+* [YAML fieldguide](https://ymlthis.r-lib.org/articles/yaml-fieldguide.html)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Tidy Tuesday
+
+* [official repository](https://github.com/rfordatascience/tidytuesday)
+* [submissions](https://github.com/jkaupp/tidytuesdays) by Jake Kaupp
+
+### utilities
+
+* [BBC visualization](https://bbc.github.io/rcookbook/) --- how to make data visualizations like the British Broadcasting Corporation
+* [color palettes](https://github.com/EmilHvitfeldt/r-color-palettes/blob/master/type-sorted-palettes.md) --- overview by Emil Hvitfeldt
+* Create stylish tables in R using [formattable](https://www.littlemissdata.com/blog/prettytables) by Little Miss Data
+* [R Seek](https://rseek.org/) --- search tool for R documentation
+* [Tips and tricks for working with images and figures in R Markdown documents](https://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures) by Hollie Olmstead
+
 
 Graphics
 ================================================================================
@@ -78,6 +138,7 @@ Column {data-width=200}
 
 ### Tools
 
+* [avatar generator](https://artflow.ai/) --- by artflow
 * [Datawrapper](https://www.datawrapper.de/) --- online tool for data visualization
 * [DrMemes](https://www.drmemes.com/) --- meme generator
 * [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
@@ -96,6 +157,7 @@ Column {data-width=200}
 ### Bayesian Approaches
 
 * [Bayes Camp](http://bayescamp.com/courses)
+* Monte Carlo [Stan](https://mc-stan.org/)
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -104,12 +166,23 @@ Column {data-width=200}
 
 * [Keras with R](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/)
 
+### Python
+
+* [How to Convert any Python File to .EXE](https://www.youtube.com/watch?v=UZX5kH72Yx4)(YouTube) --- includes how to install pip
+* [pride palettes](https://github.com/cgallinger/pride_palettes) --- by cgallinger for `matplotlib`
+
+
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
 ### Resources
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) --- the best machine learning textbook
+
+    * [tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) --- ISLR labs, but done in `tidymodels` by Emil Hvitfeldt
+
+* [GAMs in R](https://noamross.github.io/gams-in-r-course/) --- online course by Noam Ross
+* [GLMs in R](https://bookdown.org/roback/bookdown-BeyondMLR/) --- by Paul Roback and Julie Legler
 * [Physical-Based Deep Learning](http://physicsbaseddeeplearning.org/intro.html)
 * free [textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
 
@@ -137,69 +210,12 @@ Column {data-width=200}
 
 * [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) --- free textbook
 * [Email extractor](https://email-checker.net/extract)
+* Applied [Empirical Methods](https://github.com/paulgp/applied-methods-phd#lectures-full-syllabus) --- by Paul Goldsmith-Pinkham
 * Flowchart makers:  [Draw.io](https://www.draw.io/) and [LucidChart](https://www.lucidchart.com/pages/)
 * [GitHub emojis](https://gist.github.com/rxaviers/7360908)
 * [MaxQDA](https://www.maxqda.com/) --- mixed methods data analysis tool
 * [Papers with Code](https://www.paperswithcode.com/)
 * [Poster printing and templates](https://phdposters.com/)
-
-
-Python
-================================================================================
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Utilities
-
-* [How to Convert any Python File to .EXE](https://www.youtube.com/watch?v=UZX5kH72Yx4)(YouTube) --- includes how to install pip
-
-R
-================================================================================
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Textbooks
-
-* [100 free textbooks](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) --- as of December 2020
-* [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/guides.html) --- by Hadley Wickham
-* [R Cookbook](https://rc2e.com/) by James "JD" Long and Paul Teetor
-* [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
-
-### Teaching Materials
-
-* [Data Lab](https://dlab.berkeley.edu/) --- at UC Berkeley ([GitHub](https://github.com/dlab-berkeley))
-* [Data Science for Biological Sciences](https://ds4biomed.tech/index.html) --- bookdown by Daniel Chen (at Virginia Tech)
-* [Introduction to R for Geography and Environmental Science](https://github.com/kristineccles/Introduction_to_R) by Dr. Kristin Eccles
-* [STAT 158](https://csu-r.github.io/Module1/) at Colorado State University (by Alex Fout)
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Tidyverse
-
-* [encrypt RMD files](https://github.com/dirkschumacher/encryptedRmd) by Dirk Schumacher
-* [style guide](https://style.tidyverse.org/)
-* [YAML fieldguide](https://ymlthis.r-lib.org/articles/yaml-fieldguide.html)
-
-### Tidy Tuesday
-
-* [official repository](https://github.com/rfordatascience/tidytuesday)
-* [submissions](https://github.com/jkaupp/tidytuesdays) by Jake Kaupp
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Tables
-
-* [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables) by Little Miss Data
-* [Tips and tricks for working with images and figures in R Markdown documents](https://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures) by Hollie Olmstead
-
-### misc
-
-* [color palettes](https://github.com/EmilHvitfeldt/r-color-palettes/blob/master/type-sorted-palettes.md) --- overview by Emil Hvitfeldt
-* [R Seek](https://rseek.org/) --- search tool for R documentation
 
 
 Sports
@@ -212,6 +228,7 @@ Column {.tabset}
 
 * [Attendance in 2019](https://public.tableau.com/views/MajorLeagueBaseballTeamAttendancein2019/MLBAttendance2019?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no)
 * [Like every other industry, the MLB is abandoning Appalachia](https://www.reddit.com/r/baseball/comments/em01kz/essay_like_every_other_industry_the_mlb_is/) --- essay by u/sha256
+
 
 Video Games
 ================================================================================
@@ -250,7 +267,11 @@ a recommended order to read the novels
 
 ### Thronebreaker
 
-* [main thread of choices](https://www.reddit.com/r/gwent/comments/9ryree/thronebreaker_and_choices_anyone_interested_in/)
+
+* main thread of [choices](https://www.reddit.com/r/gwent/comments/9ryree/thronebreaker_and_choices_anyone_interested_in/)
+* [Gwent custom card generator](https://custom-gwent.com/) --- for Witcher 3
+* [Gwent custom card generator](https://gwentcard.online/) --- for Gwent Online
+
 
 Corpse puzzle solution
 
@@ -331,6 +352,7 @@ Column {data-width=200}
 ### Miscellaneous
 
 * [Black Women in Computational Biology](https://www.blackwomencompbio.org/)
+* [Saccharomyces Genome Database](https://www.yeastgenome.org/downloads) --- yeast genome
 * [Seeq](https://seeq.bio/app/) --- genome search tool
 
 
