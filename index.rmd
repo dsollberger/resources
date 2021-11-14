@@ -36,6 +36,7 @@ Column {data-width=200}
 
 ### Data Products
 
+* [Defund Data](https://www.defunddata.org/) --- Social Movement Support Lab
 * [EdBuild](https://edbuild.org/) --- "organization that worked to bring common sense and fairness to the way states fund public schools"
 * [Know Your Data](https://knowyourdata.withgoogle.com/) --- Google's sample of data sets for Tensor Flow (in beta stage)
 * [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
@@ -71,6 +72,7 @@ Column {data-width=200}
 * [Data Lab](https://dlab.berkeley.edu/) --- at UC Berkeley ([GitHub](https://github.com/dlab-berkeley))
 * Introduction to R for [Geography and Environmental Science](https://github.com/kristineccles/Introduction_to_R) by Dr. Kristin Eccles
 * [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm) --- by NIST
+* A First Course in [Experimental Design](https://statweb.stanford.edu/~owen/courses/363/doenotes.pdf) --- by Art B Owen (Stanfurd University Stat 263)
 * [history](https://mobile.twitter.com/yohaniddawela/status/1446032040206422019) of R --- by Yohan Iddawela
 * [introverse](https://spielmanlab.github.io/introverse/) --- Stephanie Spielman's tutorials for the `tidyverse`
 * Introduction to [Modern Statistics](https://openintro-ims.netlify.app/) --- by Mine Cetinkaya-Rundel and Jo Hardin
@@ -112,6 +114,7 @@ Column {data-width=200}
 * Create stylish tables in R using [formattable](https://www.littlemissdata.com/blog/prettytables) by Little Miss Data
 * [R Seek](https://rseek.org/) --- search tool for R documentation
 * [Tips and tricks for working with images and figures in R Markdown documents](https://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/#arguments-out.width-and-out.height-apply-to-both-existing-images-and-r-generated-figures) by Hollie Olmstead
+* [RStudio webinars](https://www.rstudio.com/resources/webinars/)
 
 
 Graphics
@@ -196,6 +199,7 @@ Column {data-width=200}
 ### Activities
 
 * [Data Nuggets](http://datanuggets.org/)
+* [Drought Center](https://drought.unl.edu/Education/Tutorials.aspx) --- Uni of Nebraska
 
 ### Repositories
 
@@ -208,6 +212,7 @@ Column {data-width=200}
 
 ### Research
 
+* Evan's Awesome [A/B Tools](https://www.evanmiller.org/ab-testing/) --- sample-size calculator and other tests
 * [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) --- free textbook
 * [Email extractor](https://email-checker.net/extract)
 * Applied [Empirical Methods](https://github.com/paulgp/applied-methods-phd#lectures-full-syllabus) --- by Paul Goldsmith-Pinkham
@@ -228,6 +233,12 @@ Column {.tabset}
 
 * [Attendance in 2019](https://public.tableau.com/views/MajorLeagueBaseballTeamAttendancein2019/MLBAttendance2019?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no)
 * [Like every other industry, the MLB is abandoning Appalachia](https://www.reddit.com/r/baseball/comments/em01kz/essay_like_every_other_industry_the_mlb_is/) --- essay by u/sha256
+
+
+UC Merced
+================================================================================
+
+* [Teaching Commons](https://teach.ucmerced.edu/)
 
 
 Video Games
