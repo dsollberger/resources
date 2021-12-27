@@ -145,6 +145,7 @@ Column {data-width=200}
 * [Datawrapper](https://www.datawrapper.de/) --- online tool for data visualization
 * [DrMemes](https://www.drmemes.com/) --- meme generator
 * [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
+* [FlowImmersive](https://flowimmersive.com/) --- commericial product for augmented reality presentations
 * animated [GIF search tool](https://marcosmarp.github.io/GIFinder/) --- by u/marcos_marp
 * [Remove Background](https://www.remove.bg/)
 * [SankeyMATIC](https://sankeymatic.com/) --- make Sankey diagrams
@@ -452,6 +453,7 @@ Column {data-width=200}
 * [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
 * Digital [Covid-19 Vaccine Record](https://myvaccinerecord.cdph.ca.gov/)
 * [Fourier Transformations](https://www.jezzamon.com/fourier/index.html) --- interactive introduction
+* [Kittify](https://kittify.herokuapp.com/) --- translate your text into cat-speak
 * Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
 * [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
 * [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
@@ -459,4 +461,5 @@ Column {data-width=200}
 * [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
 * [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry
 * [statistics notes](https://significantstatistics.com/index.php/Graduate_Level:_Intro_to_Probability_and_Statistics) --- at the graduate level
+* I want to be a [Voice Actor](https://iwanttobeavoiceactor.com/) --- advice for this industry
 * [Wishbook](http://www.wishbookweb.com/the-catalogs/) --- department store catalogs from 1937 to 1996
