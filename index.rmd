@@ -17,11 +17,32 @@ Data
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
+### Data Sets
+
+* Anthony [Bourdain travel locations](https://github.com/underthecurve/bourdain-travel-places) --- by Christine Zheng
+* [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
+* [Critical Role rolls](https://www.critrolestats.com/)
+* [Data is Plural](https://www.data-is-plural.com/archive/) --- curated weekly
+* [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
+* [Gun Violence Archive](https://www.gunviolencearchive.org/)
+* Common Core of Data [high schools (public)](https://nces.ed.gov/ccd/files.asp) and [(private)](https://nces.ed.gov/surveys/pss/)
+* [hospital prices](https://www.dolthub.com/blog/2021-06-02-hospital-price-v2-retrospective/) --- result of a "bounty"
+* [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
+* [military capabilities](https://www.militarycapabilities.com/home) --- cPASS (Center for Peace and Security)
+* [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
+* [Sunstroke Epidemic of Cincinnati](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272406/) --- of 1881
+* [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+* [Twitter posts](https://transparency.twitter.com/en/information-operations.html) that are allegedly from state-backed information operations
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
 ### Databases
 
 * [AnyAPI](https://any-api.com/) --- over 1000 public APIs
 * Baldwin Library of Historical [Children's Literature](https://ufdc.ufl.edu/baldwin/all/thumbs) at the University of Florida
 * US [Census](https://www.census.gov/en.html) with [tutorials](https://www.census.gov/data/academy/courses.html)!
+* [Climate Data](https://www.data.gov/climate/) and [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets)
 * [emancipated slaves](http://www.discoverfreedmen.org/)
 * [HealthData.gov](https://healthdata.gov/)
 * [IPEDS](https://nces.ed.gov/ipeds) --- data about universities
@@ -41,23 +62,6 @@ Column {data-width=200}
 * [Know Your Data](https://knowyourdata.withgoogle.com/) --- Google's sample of data sets for Tensor Flow (in beta stage)
 * [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
 * [Open Secrets](https://www.opensecrets.org/) --- contributions to US politicians
-
-Column {data-width=200}
---------------------------------------------------------------------------------
-
-### Data Sets
-
-* Anthony [Bourdain travel locations](https://github.com/underthecurve/bourdain-travel-places) --- by Christine Zheng
-* [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
-* [Critical Role rolls](https://www.critrolestats.com/)
-* [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
-* [Gun Violence Archive](https://www.gunviolencearchive.org/)
-* [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
-* [military capabilities](https://www.militarycapabilities.com/home) --- cPASS (Center for Peace and Security)
-* [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
-* [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
-* [Sunstroke Epidemic of Cincinnati](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272406/) --- of 1881
-* [Twitter posts](https://transparency.twitter.com/en/information-operations.html) that are allegedly from state-backed information operations
 
 
 Data Science
@@ -79,6 +83,8 @@ Column {data-width=200}
 * [Probability](https://probability4datascience.com/)  for Data Science--- by Stanley H Chan
 * Learning [Statistics](https://learningstatisticswithr.com/) with R --- by Danielle Navarro
 * [STAT 158](https://csu-r.github.io/Module1/) at Colorado State University (by Alex Fout)
+* choosing correct [statistical test](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/)
+* [StatQuest](https://statquest.org/video-index/) --- videos of statistical concepts
 * Data [Visualization](https://datavizs21.classes.andrewheiss.com/) course --- by Andrew Heiss
 
 ### Tech Textbooks
@@ -92,6 +98,9 @@ Column {data-width=200}
 * [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
 * Building Web Applications with [Shiny](https://rstudio-education.github.io/shiny-course/) --- by RStudio Education
 
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
 ### Tidyverse
 
 * [encrypt RMD files](https://github.com/dirkschumacher/encryptedRmd) by Dirk Schumacher
@@ -99,13 +108,19 @@ Column {data-width=200}
 * [tidy evaluation](https://ijlyttle.shinyapps.io/tidyeval/) --- `learnr` app by Ian Lyttle
 * [YAML fieldguide](https://ymlthis.r-lib.org/articles/yaml-fieldguide.html)
 
-Column {data-width=200}
---------------------------------------------------------------------------------
-
 ### Tidy Tuesday
 
 * [official repository](https://github.com/rfordatascience/tidytuesday)
+* [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
 * [submissions](https://github.com/jkaupp/tidytuesdays) by Jake Kaupp
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Shiny
+
+* [gallery](https://shiny.rstudio.com/gallery/) of examples
+* [RStudio tutorial](https://shiny.rstudio.com/tutorial/) `shiny` tutorial
 
 ### utilities
 
@@ -179,7 +194,7 @@ Column {data-width=200}
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
-### Resources
+### Statistics and Modeling
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) --- the best machine learning textbook
 
@@ -187,9 +202,31 @@ Column {data-width=200}
 
 * [GAMs in R](https://noamross.github.io/gams-in-r-course/) --- online course by Noam Ross
 * [GLMs in R](https://bookdown.org/roback/bookdown-BeyondMLR/) --- by Paul Roback and Julie Legler
+* [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
 * [Physical-Based Deep Learning](http://physicsbaseddeeplearning.org/intro.html)
+* [statistics notes](https://significantstatistics.com/index.php/Graduate_Level:_Intro_to_Probability_and_Statistics) --- at the graduate level
 * free [textbooks and resources in ML](https://mobile.twitter.com/sannykimchi/status/1294285085672431618)
 
+### Learn How to Code
+
+(note: I haven't tried out these sites myself, so I cannot endorse them)
+
+* [Coding Train](https://thecodingtrain.com/) --- challenges users to build simple games
+
+
+Math
+================================================================================
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+* [Alternating harmonic series](https://cindyjs.org/gallery/main/AlternatingSeries/) --- app that shows that rearrangement can sum up to any number
+* [Bernoulli numbers](https://www.bernoulli.org/)---yes, a webpage domain that was registered just for the Bernoulli numbers
+* [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
+* [Fourier Transformations](https://www.jezzamon.com/fourier/index.html) --- interactive introduction
+* Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
+* [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
+* [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry
 
 Pedagogy
 ================================================================================
@@ -232,8 +269,20 @@ Column {.tabset}
 
 ### Baseball
 
+* [Baseball Savant](https://baseballsavant.mlb.com/)
+
+
+Column {.tabset}
+--------------------------------------------------------------------------------
+
+### Articles
+
 * [Attendance in 2019](https://public.tableau.com/views/MajorLeagueBaseballTeamAttendancein2019/MLBAttendance2019?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no)
 * [Like every other industry, the MLB is abandoning Appalachia](https://www.reddit.com/r/baseball/comments/em01kz/essay_like_every_other_industry_the_mlb_is/) --- essay by u/sha256
+
+### general
+
+* [StatMuse](https://www.statmuse.com/)
 
 
 UC Merced
@@ -332,8 +381,10 @@ Dirtwater Shopkeepers preferred order:
 ### other games
 
 * [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
+* conversation search tool for [Disco Elysium](https://disco-reader.gitlab.io/disco-reader/#/)
 * [fighting game glossary](https://glossary.infil.net/) --- by Infil
 * [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
+* Simon Tatham's [puzzle games](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/)
 
 
 Bioinformatics
@@ -350,6 +401,10 @@ Column {data-width=200}
 * Covid [Tracking Project](https://covidtracking.com/)
 * [USA Map](https://covid19usmap.com/)
 
+### Covid-19 Data Sets
+
+* [Our World in Data](https://github.com/owid/covid-19-data)
+
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
@@ -364,6 +419,7 @@ Column {data-width=200}
 ### Miscellaneous
 
 * [Black Women in Computational Biology](https://www.blackwomencompbio.org/)
+* [cancer genomic data](https://gdc.cancer.gov/node/31) --- from the National Cancer Institute
 * [Saccharomyces Genome Database](https://www.yeastgenome.org/downloads) --- yeast genome
 * [Seeq](https://seeq.bio/app/) --- genome search tool
 
@@ -376,7 +432,10 @@ Column {data-width=200}
 
 ### Spatial Data
 
-* [Open Street Map](https://www.openstreetmap.org/#map=5/38.007/-95.844)
+* [ile de France mobilities](https://data.iledefrance-mobilites.fr/pages/home/) --- French repository
+* [Open Data](https://opendata.apur.org/) --- French repository
+* [Open Street Map](https://www.openstreetmap.org/)
+* [WorldPop]() --- spatial demographics and population dynamics
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -394,6 +453,7 @@ Column {data-width=200}
 
 * [GeoSpatial Health Data](https://www.paulamoraga.com/book-geospatial/) --- by Paula Moraga
 * [r-spatial](https://www.r-spatial.org/) blog by Edzer Pebesma
+* [Shade App](https://shademap.app)
 * [spatial genomics](https://spatialgenomics.com/)
 
 
@@ -407,11 +467,27 @@ Column {data-width=200}
 
 * [Airborne Toxic Event](https://theairbornetoxicevent.com/) --- my favorite music group
 * [Amy Gill](http://amygill.net/) --- biomedical scientist
+* [Andrew Geldman](https://statmodeling.stat.columbia.edu/) --- discusses pros and cons of statistics
 * [Catriona Shearer's Geometry Puzzles](https://drive.google.com/file/d/1hVP8tLURVDphmHsphz5BQLVzHCeTts29/view)
 
 ### Environment
 
 * [Kono Designs](http://konodesigns.com/urban-farm/) --- farms inside corporate buildings
+
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Cookbooks and Recipes
+
+* [Blue Apron](https://www.blueapron.com/cookbook) has all of their recipes online
+* [Budget Bytes](https://www.budgetbytes.com/) --- geared toward low cost-per-serving dishes
+* [Panda Express](https://docs.google.com/document/d/1Swl0i_lmZz18aX11W3zk-gWTRvJMT0fjlchFDVNSi-I/edit) imitation recipes
+
+<!---
+# hidden links
+* [Online Cooking School](https://www.onlinecookingschool.com/) by America's Test Kitchen
+--->
 
 ### Reddit Favorites
 
@@ -429,37 +505,22 @@ Column {data-width=200}
 --->
 
 
+
 Column {data-width=200}
 --------------------------------------------------------------------------------
-
-### Bioinformatics
-
-* [genomic data](https://gdc.cancer.gov/node/31) --- from the National Cancer Institute
 
 ### Volunteering
 
 * [Citizen Science](https://www.citizenscience.gov/)
 
-Column {data-width=200}
---------------------------------------------------------------------------------
-
 ### miscellaneous
 
-* [Alternating harmonic series](https://cindyjs.org/gallery/main/AlternatingSeries/) --- app that shows that rearrangement can sum up to any number
 * [Badger Badger Badger](https://archive.org/details/flash_badger) --- from 2003
-* [Bernoulli numbers](https://www.bernoulli.org/)---yes, a webpage domain that was registered just for the Bernoulli numbers
 * [Bookshop](https://bookshop.org/) --- support local book stores
 * [bouncing DVD logo](https://www.bouncingdvdlogo.com/) --- popular among fans of The Office
-* [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
 * Digital [Covid-19 Vaccine Record](https://myvaccinerecord.cdph.ca.gov/)
-* [Fourier Transformations](https://www.jezzamon.com/fourier/index.html) --- interactive introduction
 * [Kittify](https://kittify.herokuapp.com/) --- translate your text into cat-speak
-* Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
-* [OpenIntro Statistics](https://leanpub.com/openintro-statistics) --- free textbook (suggested donation: $15)
-* [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
 * [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
 * [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
-* [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry
-* [statistics notes](https://significantstatistics.com/index.php/Graduate_Level:_Intro_to_Probability_and_Statistics) --- at the graduate level
 * I want to be a [Voice Actor](https://iwanttobeavoiceactor.com/) --- advice for this industry
 * [Wishbook](http://www.wishbookweb.com/the-catalogs/) --- department store catalogs from 1937 to 1996
