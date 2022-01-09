@@ -177,6 +177,7 @@ Column {data-width=200}
 
 * [Bayes Camp](http://bayescamp.com/courses)
 * Monte Carlo [Stan](https://mc-stan.org/)
+* [Statistical Rethinking with brms](https://bookdown.org/content/4857/) --- fan addition to McElreath's book
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -288,6 +289,7 @@ Column {.tabset}
 UC Merced
 ================================================================================
 
+* UC [Police dashboard](https://police.ucmerced.edu/data-dashboards)
 * [Teaching Commons](https://teach.ucmerced.edu/)
 
 
