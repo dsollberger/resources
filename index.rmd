@@ -23,12 +23,14 @@ Column {data-width=200}
 * [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
 * [Critical Role rolls](https://www.critrolestats.com/)
 * [Data is Plural](https://www.data-is-plural.com/archive/) --- curated weekly
+* [emancipated slaves](http://www.discoverfreedmen.org/)
 * [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
 * [Gun Violence Archive](https://www.gunviolencearchive.org/)
 * Common Core of Data [high schools (public)](https://nces.ed.gov/ccd/files.asp) and [(private)](https://nces.ed.gov/surveys/pss/)
 * [hospital prices](https://www.dolthub.com/blog/2021-06-02-hospital-price-v2-retrospective/) --- result of a "bounty"
 * [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
 * [military capabilities](https://www.militarycapabilities.com/home) --- cPASS (Center for Peace and Security)
+* [movie posters](https://theposterdb.com/)
 * [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 * [Sunstroke Epidemic of Cincinnati](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272406/) --- of 1881
 * [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
@@ -43,10 +45,10 @@ Column {data-width=200}
 * Baldwin Library of Historical [Children's Literature](https://ufdc.ufl.edu/baldwin/all/thumbs) at the University of Florida
 * US [Census](https://www.census.gov/en.html) with [tutorials](https://www.census.gov/data/academy/courses.html)!
 * [Climate Data](https://www.data.gov/climate/) and [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets)
+* [Education Data Portal](https://educationdata.urban.org/data-explorer/explorer) at the Urban Institute
 * [emancipated slaves](http://www.discoverfreedmen.org/)
 * [HealthData.gov](https://healthdata.gov/)
 * [IPEDS](https://nces.ed.gov/ipeds) --- data about universities
-* [movie posters](https://theposterdb.com/)
 * [Our World in Data](https://github.com/piersyork/owidR) --- R package to access owid data sets
 * [network data](https://github.com/schochastics/networkdata)
 * [Standard eBooks](https://standardebooks.org/) free e-books from the public domain
@@ -120,6 +122,7 @@ Column {data-width=200}
 ### Shiny
 
 * [gallery](https://shiny.rstudio.com/gallery/) of examples
+* [Mastering Shiny](https://mastering-shiny.org/) --- [solutions](https://mastering-shiny-solutions.netlify.app/index.html)
 * [RStudio tutorial](https://shiny.rstudio.com/tutorial/) `shiny` tutorial
 
 ### utilities
@@ -176,6 +179,7 @@ Column {data-width=200}
 ### Bayesian Approaches
 
 * [Bayes Camp](http://bayescamp.com/courses)
+* Bayesian Modeling and Computation in [Python](https://bayesiancomputationbook.com/welcome.html)
 * Monte Carlo [Stan](https://mc-stan.org/)
 * [Statistical Rethinking with brms](https://bookdown.org/content/4857/) --- fan addition to McElreath's book
 
@@ -213,6 +217,7 @@ Column {data-width=200}
 (note: I haven't tried out these sites myself, so I cannot endorse them)
 
 * [Coding Train](https://thecodingtrain.com/) --- challenges users to build simple games
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
 
 
 Math
@@ -221,6 +226,7 @@ Math
 Column {data-width=200}
 --------------------------------------------------------------------------------
 
+* [Abstract Algebra](http://www.math.clemson.edu/~macaule/classes/f21_math4120/) --- course taught by Dr Matt Macauley
 * [Alternating harmonic series](https://cindyjs.org/gallery/main/AlternatingSeries/) --- app that shows that rearrangement can sum up to any number
 * [Bernoulli numbers](https://www.bernoulli.org/)---yes, a webpage domain that was registered just for the Bernoulli numbers
 * [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
@@ -253,6 +259,7 @@ Column {data-width=200}
 
 * Evan's Awesome [A/B Tools](https://www.evanmiller.org/ab-testing/) --- sample-size calculator and other tests
 * [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) --- free textbook
+* The [Effect](https://theeffectbook.net/) --- textbook of experiment design by Nick Huntington-Klein
 * [Email extractor](https://email-checker.net/extract)
 * Applied [Empirical Methods](https://github.com/paulgp/applied-methods-phd#lectures-full-syllabus) --- by Paul Goldsmith-Pinkham
 * Flowchart makers:  [Draw.io](https://www.draw.io/) and [LucidChart](https://www.lucidchart.com/pages/)
@@ -375,7 +382,7 @@ Dirtwater Shopkeepers preferred order:
 
 1. Boots (Tony, Fort of Darkness)
 2. Curiousity and Bean (Murray, Lost Dutch Oven Mine)
-3. Leather Goods (Danny, Danny's Tannery)
+3. Leather Goods (Grady, Danny's Tannery)
 4. Bookstore (Alexandria, Alexandria Ranch)
 5. Brewery (Ol' Schmaltz Brewery)
 6. Hot Dog (Doug, Cavern Canyon)
@@ -386,7 +393,9 @@ Dirtwater Shopkeepers preferred order:
 * conversation search tool for [Disco Elysium](https://disco-reader.gitlab.io/disco-reader/#/)
 * [fighting game glossary](https://glossary.infil.net/) --- by Infil
 * [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
+* [Ori and the Blind Forest randomizer](https://orirando.com/)
 * Simon Tatham's [puzzle games](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/)
+* How we see the future of e-sports through the [Street Fighter](https://fugutabetai.com/?postid=615) League --- translation by FutuTabetai
 
 
 Bioinformatics
