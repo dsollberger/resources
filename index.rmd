@@ -96,6 +96,7 @@ Column {data-width=200}
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) --- by Rob J Hyndman and George Athanasopoulos
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/guides.html) --- by Hadley Wickham
 * Happy Git and [GitHub](https://happygitwithr.com/) for the useR --- by Jenny Bryan and Jim Hester
+* [Python for Data Analysis](https://wesmckinney.com/book/) --- by Wes McKinney
 * [R Cookbook](https://rc2e.com/) by James "JD" Long and Paul Teetor
 * [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
 * Building Web Applications with [Shiny](https://rstudio-education.github.io/shiny-course/) --- by RStudio Education
@@ -232,6 +233,7 @@ Column {data-width=200}
 * [Calculus Made Easy](http://calculusmadeeasy.org/) --- classic textbook from 1910
 * [Fourier Transformations](https://www.jezzamon.com/fourier/index.html) --- interactive introduction
 * Free [Math textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/) --- Calculus and above
+* [Ooodle](https://mathszone.co.uk/resources/grid/ooodle/) --- arithmetic version of Wordle
 * [periodic behavior GIF](https://maths-help.tumblr.com/post/57255685488/dassexyattentater-so-this-gif-has-been-going) --- circle, square, and hexagon waves
 * [similar triangles](https://mobile.twitter.com/clementinehazel/status/1292292780434358273) --- a quick story for high school Geometry
 
@@ -462,6 +464,8 @@ Column {data-width=200}
 
 ### Spatial Analysis
 
+* [GeoComputation with R](https://geocompr.robinlovelace.net/) --- by Robin Lovelace
+* [Geographies of Data Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/) --- by Mark Graham and Martin Dittus
 * [GeoSpatial Health Data](https://www.paulamoraga.com/book-geospatial/) --- by Paula Moraga
 * [r-spatial](https://www.r-spatial.org/) blog by Edzer Pebesma
 * [Shade App](https://shademap.app)
