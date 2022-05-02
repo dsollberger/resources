@@ -160,6 +160,7 @@ Column {data-width=200}
 ### Image Collections
 
 * [The Flippist](http://www.theflippist.com/)
+* J.G. [Heck](https://www.c82.net/iconography/) --- encyclopedia of illustrations from 1851
 * art of [Paris museums](http://parismuseescollections.paris.fr/fr/recherche/image-libre)
 * infographics by [Plano Informativo](https://planoinformativo.com/grafico)
 * [Roadside America](https://www.flickr.com/photos/library_of_congress/albums/72157686396348231/page1) --- public domain images of points of interest from the rural parts of the United States
@@ -211,6 +212,7 @@ Column {data-width=200}
 ### Python
 
 * [How to Convert any Python File to .EXE](https://www.youtube.com/watch?v=UZX5kH72Yx4)(YouTube) --- includes how to install pip
+* [Learn to Program](https://inventwithpython.com/) --- books by Al Sweigart
 * [pride palettes](https://github.com/cgallinger/pride_palettes) --- by cgallinger for `matplotlib`
 * [regular expression checker](https://pythex.org/)
 
@@ -237,6 +239,7 @@ Column {data-width=200}
 
 * [Coding Train](https://thecodingtrain.com/) --- challenges users to build simple games
 * [concept diagrams](https://stanford.edu/~shervine/teaching/cs-221/) --- by Shervine Amidi
+* Dive Into [Deep Learning](https://d2l.ai/index.html) --- interactive lessons
 * [computer science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 
@@ -415,6 +418,7 @@ Dirtwater Shopkeepers preferred order:
 * [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
 * conversation search tool for [Disco Elysium](https://disco-reader.gitlab.io/disco-reader/#/)
 * [fighting game glossary](https://glossary.infil.net/) --- by Infil
+* [Gaming Alexandra](https://www.gamingalexandria.com/wp/) --- video game history and presentation
 * [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
 * [Ori and the Blind Forest randomizer](https://orirando.com/)
 * Simon Tatham's [puzzle games](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/)
@@ -559,4 +563,4 @@ Column {data-width=200}
 * [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
 * [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
 * I want to be a [Voice Actor](https://iwanttobeavoiceactor.com/) --- advice for this industry
-* [Wishbook](http://www.wishbookweb.com/the-catalogs/) --- department store catalogs from 1937 to 1996
+* [Wishbook](http://www.wishbookweb.com/the-catalogs/) --- Sears catalogs from 1937 to 1996
