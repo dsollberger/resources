@@ -40,6 +40,7 @@ Column {data-width=200}
 
 ### Data Sets
 
+* [All the Places](https://www.alltheplaces.xyz/) --- webscraped repository of geodata
 * Anthony [Bourdain travel locations](https://github.com/underthecurve/bourdain-travel-places) --- by Christine Zheng
 * [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
 * [Critical Role rolls](https://www.critrolestats.com/)
@@ -66,6 +67,7 @@ Column {data-width=200}
 
 ### Data Products
 
+* [College Scorecard](https://collegescorecard.ed.gov/search/?page=0&sort=median_earnings:desc&toggle=institutions) --- US Dept of Education overview of colleges
 * [Defund Data](https://www.defunddata.org/) --- Social Movement Support Lab
 * [EdBuild](https://edbuild.org/) --- "organization that worked to bring common sense and fairness to the way states fund public schools"
 * [Know Your Data](https://knowyourdata.withgoogle.com/) --- Google's sample of data sets for Tensor Flow (in beta stage)
@@ -166,14 +168,14 @@ Column {data-width=200}
 * [Roadside America](https://www.flickr.com/photos/library_of_congress/albums/72157686396348231/page1) --- public domain images of points of interest from the rural parts of the United States
 
 
-Column {data-width=200}
---------------------------------------------------------------------------------
-
 ### Reverse Image Search
 
 * [Google](https://www.google.com/imghp)
 * [TinEye](https://tineye.com/)
 * [Yandex](https://yandex.com/)
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
 
 ### Tools
 
@@ -404,7 +406,7 @@ Fableson puzzle solution
 * [wiki](https://westofloathing.gamepedia.com/West_of_Loathing_Wiki) at Gamepedia
 * [Dirtwater Shopkeepers](https://www.reddit.com/r/westofloathingguide/comments/as8p5a/west_of_loathing_guide_to_everything_dirtwater/) Reddit post
 
-Dirtwater Shopkeepers preferred order:
+Dirtwater Shopkeepers (my preferred order):
 
 1. Boots (Tony, Fort of Darkness)
 2. Curiousity and Bean (Murray, Lost Dutch Oven Mine)
@@ -412,6 +414,11 @@ Dirtwater Shopkeepers preferred order:
 4. Bookstore (Alexandria, Alexandria Ranch)
 5. Brewery (Ol' Schmaltz Brewery)
 6. Hot Dog (Doug, Cavern Canyon)
+
+### Wordle
+
+* [guess helper](https://www.garrickadenbuie.com/blog/wordle-guess-helper/) --- by Garrick Aden-Buie
+* information theory [video 1](https://www.youtube.com/watch?v=v68zYyaEmEA) and [video 2](https://www.youtube.com/watch?v=fRed0Xmc2Wg) --- by 3Blue1Brown
 
 ### other games
 
@@ -559,6 +566,7 @@ Column {data-width=200}
 * [Bookshop](https://bookshop.org/) --- support local book stores
 * [bouncing DVD logo](https://www.bouncingdvdlogo.com/) --- popular among fans of The Office
 * Digital [Covid-19 Vaccine Record](https://myvaccinerecord.cdph.ca.gov/)
+* [Hemingway app](https://hemingwayapp.com/) --- describes readability and grade level of writing samples
 * [Kittify](https://kittify.herokuapp.com/) --- translate your text into cat-speak
 * [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
 * [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
