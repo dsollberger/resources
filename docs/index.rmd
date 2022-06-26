@@ -130,6 +130,7 @@ Column {data-width=200}
 * [official repository](https://github.com/rfordatascience/tidytuesday)
 * [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) --- currently accepted example data set ([Spanish](https://mobile.twitter.com/rivaquiroga/status/1295395634934099968))
 * [submissions](https://github.com/jkaupp/tidytuesdays) by Jake Kaupp
+* [tidyrainbow](https://github.com/r-lgbtq/tidyrainbow) will have LGBT data sets
 
 Column {data-width=200}
 --------------------------------------------------------------------------------
@@ -146,6 +147,7 @@ Column {data-width=200}
 * [color palettes](https://github.com/EmilHvitfeldt/r-color-palettes/blob/master/type-sorted-palettes.md) --- overview by Emil Hvitfeldt
 * Create stylish tables in R using [formattable](https://www.littlemissdata.com/blog/prettytables) by Little Miss Data
 * [ggplot2 cheatsheets](https://ggplot2tor.com/cheatsheets/) --- by Christian Burkhart
+* [Goblin Notebook](https://help.the-goblin.net/category/how-to-guides/markdown/) --- markdown for TTRPGs
 * [R Seek](https://rseek.org/) --- search tool for R documentation
 * [R Universe](https://r-universe.dev/search/) --- search tool for R packages
 * [regular expression checker](https://regex101.com/)
@@ -167,6 +169,16 @@ Column {data-width=200}
 * infographics by [Plano Informativo](https://planoinformativo.com/grafico)
 * [Roadside America](https://www.flickr.com/photos/library_of_congress/albums/72157686396348231/page1) --- public domain images of points of interest from the rural parts of the United States
 
+Column {data-width=200}
+--------------------------------------------------------------------------------
+
+### Memes
+
+* [DrMemes](https://www.drmemes.com/) --- meme generator
+* [The Penske File](https://www.penskefile.com/) --- image finder for Seinfeld
+
+Column {data-width=200}
+--------------------------------------------------------------------------------
 
 ### Reverse Image Search
 
@@ -174,14 +186,10 @@ Column {data-width=200}
 * [TinEye](https://tineye.com/)
 * [Yandex](https://yandex.com/)
 
-Column {data-width=200}
---------------------------------------------------------------------------------
-
 ### Tools
 
 * [avatar generator](https://artflow.ai/) --- by artflow
 * [Datawrapper](https://www.datawrapper.de/) --- online tool for data visualization
-* [DrMemes](https://www.drmemes.com/) --- meme generator
 * [DrawData](https://drawdata.xyz/) --- draw a graph and then make a CSV!
 * [FlowImmersive](https://flowimmersive.com/) --- commericial product for augmented reality presentations
 * animated [GIF search tool](https://marcosmarp.github.io/GIFinder/) --- by u/marcos_marp
