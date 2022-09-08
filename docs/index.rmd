@@ -22,7 +22,6 @@ library(flexdashboard)
 -   [Climate Data](https://www.data.gov/climate/) and [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets)
 -   [Diversity in Data](https://data.world/diversityindata)
 -   [Education Data Portal](https://educationdata.urban.org/data-explorer/explorer) at the Urban Institute
--   [emancipated slaves](http://www.discoverfreedmen.org/)
 -   [HealthData.gov](https://healthdata.gov/)
 -   [IPEDS](https://nces.ed.gov/ipeds) --- data about universities
 -   [Our World in Data](https://github.com/piersyork/owidR) --- R package to access owid data sets
@@ -41,17 +40,17 @@ library(flexdashboard)
 -   [CNN School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data)
 -   [Critical Role rolls](https://www.critrolestats.com/)
 -   [Data is Plural](https://www.data-is-plural.com/archive/) --- curated weekly
--   [emancipated slaves](http://www.discoverfreedmen.org/)
+-   [Emancipated slaves](http://www.discoverfreedmen.org/)
 -   [FGC](https://data.oneframelink.com/) --- data about fighting games
--   [gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
--   [gender pay gap](https://gender-pay-gap.service.gov.uk/) --- United Kingdom
+-   [Gaming dataset repository](https://github.com/leomaurodesenv/game-datasets) by leomaurodesenv
+-   [Gender pay gap](https://gender-pay-gap.service.gov.uk/) --- United Kingdom
 -   [Gun Violence Archive](https://www.gunviolencearchive.org/)
 -   Common Core of Data [high schools (public)](https://nces.ed.gov/ccd/files.asp) and [(private)](https://nces.ed.gov/surveys/pss/)
--   [hospital prices](https://www.dolthub.com/blog/2021-06-02-hospital-price-v2-retrospective/) --- result of a "bounty"
+-   [Hospital prices](https://www.dolthub.com/blog/2021-06-02-hospital-price-v2-retrospective/) --- result of a "bounty"
 -   [Human Benchmark](https://humanbenchmark.com/) --- i.e. survey classmates to make simple data sets
 - [Human Impacts Database](https://www.anthroponumbers.org/catalog/) --- e.g. carbon footprint
--   [military capabilities](https://www.militarycapabilities.com/home) --- cPASS (Center for Peace and Security)
--   [movie posters](https://theposterdb.com/)
+-   [Military capabilities](https://www.militarycapabilities.com/home) --- cPASS (Center for Peace and Security)
+-   [Movie posters](https://theposterdb.com/)
 -   [NYC Squirrels](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 -   [Sunstroke Epidemic of Cincinnati](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272406/) --- of 1881
 -   [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
@@ -74,7 +73,7 @@ library(flexdashboard)
 -   [Know Your Data](https://knowyourdata.withgoogle.com/) --- Google's sample of data sets for Tensor Flow (in beta stage)
 -   [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
 -   [Open Secrets](https://www.opensecrets.org/) --- contributions to US politicians
--   [sundown towns](https://justice.tougaloo.edu/map/)
+-   [Sundown towns](https://justice.tougaloo.edu/map/)
 
 # Data Science (R)
 
