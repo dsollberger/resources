@@ -114,6 +114,7 @@ library(flexdashboard)
 -   [R Graphics Cookbook](https://r-graphics.org/) --- by Winston Chang
 -   [R for Data Science](https://r4ds.had.co.nz/?fbclid=IwAR13MM70AcRqpFrhRHWjR4-QO-XURM6Bgy9CitJMsj2I6aF7FhXsOLQPaXM) by Garrett Grolemund and Hadley Wickham
 -   Building Web Applications with [Shiny](https://rstudio-education.github.io/shiny-course/) --- by RStudio Education
+- Data [Visualization with R](https://rkabacoff.github.io/datavis/) --- by Rob Kabacoff
 
 ## Column {data-width="200"}
 
