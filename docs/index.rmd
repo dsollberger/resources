@@ -104,6 +104,7 @@ library(flexdashboard)
 ### Textbooks
 
 -   [100 free textbooks](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) --- as of December 2020
+- [Advanced R](https://adv-r.hadley.nz/) --- by Hadley Wickham
 -   Data Science at the [Command Line](https://www.datascienceatthecommandline.com/) --- by Jeroen Janssens
 - Crime by the Numbers: [A Criminologist's Guide to R](https://crimebythenumbers.com/) --- by Jacob Kaplan
 -   [Forecasting: Principles and Practice](https://otexts.com/fpp3/) --- by Rob J Hyndman and George Athanasopoulos
@@ -413,6 +414,7 @@ Fableson puzzle solution
 -   [DLC guide](https://www.reddit.com/r/westofloathingguide/comments/as9gmx/wol_guide_to_everything_reckonin_at_gun_manor_dlc/) Reddit post
 -   [wiki](https://westofloathing.gamepedia.com/West_of_Loathing_Wiki) at Gamepedia
 -   [Dirtwater Shopkeepers](https://www.reddit.com/r/westofloathingguide/comments/as8p5a/west_of_loathing_guide_to_everything_dirtwater/) Reddit post
+- pale horse can lead to the [ghost ring](https://westofloathing.fandom.com/wiki/Ghost_ring)
 
 Dirtwater Shopkeepers (my preferred order):
 
