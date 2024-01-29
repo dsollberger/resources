@@ -69,6 +69,7 @@ library(flexdashboard)
 - [FBI NIBRS](https://jacobdkaplan.com/nibrs.html) --- by Jacob Kaplan
 -   [Gender Pay Gap (UK)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/findoutthegenderpaygapforyourjob/2016-12-09) --- [quiz](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/testyourknowledgeonthegenderpaygap/2016-12-09), [data](https://gender-pay-gap.service.gov.uk/viewing/download)
 - [Gendered Language in Teaching Evaluations](http://benschmidt.org/profGender/#)
+- [Gun Store Map](https://gunstoremap.blogspot.com/)
 - [JWST](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html) --- astronomy data
 -   [Know Your Data](https://knowyourdata.withgoogle.com/) --- Google's sample of data sets for Tensor Flow (in beta stage)
 -   [Millennials Kill Everything](https://pudding.cool/2019/09/millennials/?fbclid=IwAR12F70S12ipckmziUjIJPsfP3k3PhZfeCLelQCoWiYTfNn2mRjRC4cnU_s) by Alexandra Saizan, Iila Blinderman, and Jan Diehm
@@ -92,7 +93,9 @@ library(flexdashboard)
 -   [history](https://mobile.twitter.com/yohaniddawela/status/1446032040206422019) of R --- by Yohan Iddawela
 -   [introverse](https://spielmanlab.github.io/introverse/) --- Stephanie Spielman's tutorials for the `tidyverse`
 -   Introduction to [Modern Statistics](https://openintro-ims.netlify.app/) --- by Mine Cetinkaya-Rundel and Jo Hardin
+- [Practical Statistics in Medicine with R](https://practical-stats-med-r.netlify.app/) by Konstantinos I. Bougioukas
 -   [Probability](https://probability4datascience.com/) for Data Science--- by Stanley H Chan
+- [Reproducible Analytical Pipelines](https://rap4mads.eu/) --- by Bruno Rodrigues
 -   Learning [Statistics](https://learningstatisticswithr.com/) with R --- by Danielle Navarro
 -   [Sports Data Analysis and Visualization](http://mattwaite.github.io/sports/) --- by Matt Waite
 -   [STAT 158](https://csu-r.github.io/Module1/) at Colorado State University (by Alex Fout)
@@ -100,6 +103,7 @@ library(flexdashboard)
 -   choosing correct [statistical test](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/)
 -   [StatQuest](https://statquest.org/video-index/) --- videos of statistical concepts
 -   Data [Visualization](https://datavizs21.classes.andrewheiss.com/) course --- by Andrew Heiss
+- Data [Visualization Guide](https://royal-statistical-society.github.io/datavisguide/) --- by the Royal Statistical Society
 
 ### Textbooks
 
@@ -163,6 +167,10 @@ library(flexdashboard)
 
 ## Column {data-width="200"}
 
+### Blogs
+
+- [Cedric Sherer](https://www.cedricscherer.com/)
+
 ### Image Collections
 
 -   [The Flippist](http://www.theflippist.com/)
@@ -210,6 +218,10 @@ library(flexdashboard)
 -   Bayesian Modeling and Computation in [Python](https://bayesiancomputationbook.com/welcome.html)
 -   Monte Carlo [Stan](https://mc-stan.org/)
 -   [Statistical Rethinking with brms](https://bookdown.org/content/4857/) --- fan addition to McElreath's book
+
+### Julia
+
+- Fundamentals of [Numerical Computation](https://tobydriscoll.net/fnc-julia/home.html) by Tobin A Driscoll
 
 ## Column {data-width="200"}
 
@@ -288,6 +300,10 @@ library(flexdashboard)
 -   [Data Nuggets](http://datanuggets.org/)
 -   [Drought Center](https://drought.unl.edu/Education/Tutorials.aspx) --- Uni of Nebraska
 
+### Environments
+
+- [Jupyter for instruction](https://jupyter4edu.github.io/jupyter-edu-book/)
+
 ### Repositories
 
 -   [Inform 7](http://inform7.com/) --- teaches programming through story telling?
@@ -345,6 +361,14 @@ library(flexdashboard)
 # Video Games
 
 ## Column {.tabset}
+
+### Palworld
+
+* [best base locations](https://genshinlab.com/best-palworld-base-locations/)
+* [interactive map](https://palworld.th.gl/)
+* [mods](https://www.nexusmods.com/palworld)
+
+![](images/palworld_cheat_sheet.png)
 
 ### Starcraft
 
@@ -433,11 +457,15 @@ Dirtwater Shopkeepers (my preferred order):
 ### other games
 
 -   [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
+- [Bookworm](https://www.solitaireparadise.com/games_list/bookworm.html)
 -   conversation search tool for [Disco Elysium](https://disco-reader.gitlab.io/disco-reader/#/)
 -   [fighting game glossary](https://glossary.infil.net/) --- by Infil
+- [Flash Game](http://www.flashgamearchive.com/) Archive
+- [Flash Games](https://archive.org/details/softwarelibrary_flash_games) at the Internet Archive
 -   [Gaming Alexandra](https://www.gamingalexandria.com/wp/) --- video game history and presentation
 -   [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
 -   [Ori and the Blind Forest randomizer](https://orirando.com/)
+- Path of Exile [build recommendations](https://www.pohx.net/) --- by PohX
 -   Simon Tatham's [puzzle games](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/)
 -   How we see the future of e-sports through the [Street Fighter](https://fugutabetai.com/?postid=615) League --- translation by FutuTabetai
 - [Zelda: A Link to the Past](https://github.com/snesrev/zelda3) --- remade in C++
@@ -463,6 +491,8 @@ Dirtwater Shopkeepers (my preferred order):
 ### Learning
 
 -   [Bioinformatics Algorithms: An Active Learning Approach](https://www.bioinformaticsalgorithms.org/read-the-book)
+- [Biostatistics for Biomedical Research](http://hbiostat.org/bbr/) --- by Frank E Harrell Jr
+- [Computational Genomics with R](https://compgenomr.github.io/book/) --- by Altuna Akalin
 -   [John Hopkins Genomics](https://www.coursera.org/specializations/genomic-data-science) --- specialization through Coursera
 -   [Rosalind](http://rosalind.info/problems/locations/)--- learning bioinformatics through problem solving
 -   [TeSS: Elixer](https://tess.elixir-europe.org/)
@@ -528,7 +558,9 @@ Dirtwater Shopkeepers (my preferred order):
 -   [Airborne Toxic Event](https://theairbornetoxicevent.com/) --- my favorite music group
 -   [Amy Gill](http://amygill.net/) --- biomedical scientist
 -   [Andrew Geldman](https://statmodeling.stat.columbia.edu/) --- discusses pros and cons of statistics
+- [Carl Howe](http://carlhowe.com/carlhowe.com/index.html)
 -   [Catriona Shearer's Geometry Puzzles](https://drive.google.com/file/d/1hVP8tLURVDphmHsphz5BQLVzHCeTts29/view)
+- [Kevin Lin](https://klin84.blogspot.com)
 
 ### Environment
 
@@ -580,6 +612,7 @@ Dirtwater Shopkeepers (my preferred order):
 -   Digital [Covid-19 Vaccine Record](https://myvaccinerecord.cdph.ca.gov/)
 -   [Hemingway app](https://hemingwayapp.com/) --- describes readability and grade level of writing samples
 -   [Kittify](https://kittify.herokuapp.com/) --- translate your text into cat-speak
+- [Paper Airplane instructions](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
 -   [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
 -   [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
 -   I want to be a [Voice Actor](https://iwanttobeavoiceactor.com/) --- advice for this industry
