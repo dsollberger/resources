@@ -388,9 +388,13 @@ a recommended order to read the novels
 
 ### Stardew Valley
 
--   [official site](https://www.stardewvalley.net/)
--   [wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
+-   [official site](https://www.stardewvalley.net/) and [wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
+
+    - [golden walnuts](https://gameplay.tips/guides/9213-stardew-valley.html)
+
 -   [mods](https://www.nexusmods.com/stardewvalley/)
+
+
 
 ### Super Metroid
 
@@ -458,11 +462,13 @@ Dirtwater Shopkeepers (my preferred order):
 
 -   [Baldur's Gate II](https://digiplaygaming.com/baldursgate) --- whole game online??
 - [Bookworm](https://www.solitaireparadise.com/games_list/bookworm.html)
+- video game [development](https://www.develop.games/) --- outline by PirateSoftware
 -   conversation search tool for [Disco Elysium](https://disco-reader.gitlab.io/disco-reader/#/)
 -   [fighting game glossary](https://glossary.infil.net/) --- by Infil
 - [Flash Game](http://www.flashgamearchive.com/) Archive
 - [Flash Games](https://archive.org/details/softwarelibrary_flash_games) at the Internet Archive
 -   [Gaming Alexandra](https://www.gamingalexandria.com/wp/) --- video game history and presentation
+- [Mortal Kombat Plus](https://mkombat.plus/)
 -   [Old Games Download](https://oldgamesdownload.com/) --- from the '70s, '80s, and '90s
 -   [Ori and the Blind Forest randomizer](https://orirando.com/)
 - Path of Exile [build recommendations](https://www.pohx.net/) --- by PohX
@@ -612,6 +618,7 @@ Dirtwater Shopkeepers (my preferred order):
 -   Digital [Covid-19 Vaccine Record](https://myvaccinerecord.cdph.ca.gov/)
 -   [Hemingway app](https://hemingwayapp.com/) --- describes readability and grade level of writing samples
 -   [Kittify](https://kittify.herokuapp.com/) --- translate your text into cat-speak
+- [Neal.fun](https://neal.fun/)
 - [Paper Airplane instructions](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
 -   [Radio Garden](http://radio.garden/) --- listen to radio stations from around the world
 -   [Rejected Princesses](https://www.rejectedprincesses.com/) --- biographies of lessor known women in history
